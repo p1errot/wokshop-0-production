@@ -1,0 +1,39 @@
+{
+  "name": "wokshop-0-production",
+  "version": "1.0.0",
+  "description": "Workshop 0 to Production",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/p1errot/wokshop-0-production.git"
+  },
+  "keywords": [
+    "webpack",
+    "js"
+  ],
+  "author": "Samuel Rivera <samuelp1errot@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/p1errot/wokshop-0-production/issues"
+  },
+  "homepage": "https://github.com/p1errot/wokshop-0-production#readme",
+  "dependencies": {
+    "inquirer": "^6.3.1",
+    "next": "^8.1.0",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  },
+  "devDependencies": {
+    "eslint": "^5.16.0",
+    "eslint-config-airbnb": "^17.1.0",
+    "eslint-plugin-import": "^2.17.3",
+    "eslint-plugin-jsx-a11y": "^6.2.1",
+    "eslint-plugin-react": "^7.13.0"
+  }
+}
